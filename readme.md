@@ -15,6 +15,12 @@ To compile JavaScript:
 npm run dev
 ```
 
+(If you want it to auto-compile:)
+
+```
+npm run watch
+```
+
 To run the web server:
 
 ```
