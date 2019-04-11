@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
+
 
 export default class Example extends Component {
     render() {
@@ -21,4 +21,4 @@ export default class Example extends Component {
     }
 }
 
-ReactDOM.render(<Example />, document.getElementById('app'));
+
